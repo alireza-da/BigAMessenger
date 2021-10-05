@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Big A</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="Success">Success</string>
+    <string name="Loading">Loading..</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_address">Email Address</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="create_account"> Create account</string>
+    <string name="body">Body</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send">Send</string>
+    <string name="todo">TODO</string>
+    <string name="don_t_have_an_account">Don\'t have an account ? </string>
+    <string name="log_out">Log out</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="create">Create</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="create_account_title">Create Account</string>
+    <string name="channel_name">bigAchannel</string>
+    <string name="channel_description">message notification</string>
+    <string name="pick_button">Select</string>
+    <string name="menu_settings">Settings</string>
+    <string name="page_title">Chat</string>
+    <string name="menu">menu</string>
+    <string name="edit_profile_string">Edit profile</string>
+    <string name="contact_us_string">Contact Us</string>
+    <string name="nav_drawer_open">Open navigation</string>
+    <string name="nav_drawer_close">Close navigation</string>
+    <string name="settings_string">Settings</string>
+    <string name="upload_profile_string">Image</string>
+    <string name="phone_number_field">Phone</string>
+    <string name="profile_photo_string">Profile Photo</string>
+    <string name="round_image_crop">round_image_crop</string>
+    <string name="version_0_0_0">Version: 0.0.0</string>
+    <string name="contacts_string">Contacts</string>
+    <string name="add_contact_string">add contact</string>
+    <string name="icon_string">icon</string>
+
+</resources>

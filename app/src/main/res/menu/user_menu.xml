@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/contacts_item"
+        android:title="@string/contacts_string"
+        android:icon="@mipmap/ic_contacts_50dp"
+        />
+
+    <item
+        android:id="@+id/edit_profile_item"
+        android:title="@string/edit_profile_string"
+        android:icon="@mipmap/user"
+        />
+
+    <item
+        android:id="@+id/contact_us_item"
+        android:title="@string/contact_us_string"
+        android:icon="@mipmap/mail" />
+
+    <item
+        android:id="@+id/setting_item"
+        android:title="@string/settings_string"
+        android:icon="@mipmap/settings"
+        android:iconTintMode="screen"
+        android:iconTint="#FFFFFF"/>
+
+
+
+</menu>
